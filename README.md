@@ -2,12 +2,15 @@
 
 ## Midterm project for the FourthBrain MLOps June 2021 Cohort
 
+### [ML Classification Deployment in Cloud Project](https://docs.google.com/document/d/1jXX2aPgOiHvxSdQ-l14hzEP652qbIzDXcgmAoaVitUc/edit?usp=sharing)
+
 ## Deployment Note
 Train Models using Sato_4B_Midterm_Classifier_Trainer.ipynb in free-to-use [Google Colab](https://colab.research.google.com/).
 
 Run Model using Sato_4B_Midterm_Classifier_Predict.ipynb
 
-### [ML Classification Deployment in Cloud Project](https://docs.google.com/document/d/1jXX2aPgOiHvxSdQ-l14hzEP652qbIzDXcgmAoaVitUc/edit?usp=sharing)
+## Run this Model
+This model is hosted on Heroku at https://sato-4b-midterm-classifier.herokuapp.com/
 
 ## VGG16 Model Trained on [CIFAR 100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 This data set contains 50,000 \[32x32\] RGB images with 100 labels. This data set can be loaded directly into [Python using the keras library] (https://keras.io/api/datasets/cifar100/).
