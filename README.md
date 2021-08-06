@@ -20,3 +20,5 @@ This data set contains 50,000 \[32x32\] RGB images with 100 labels. This data se
 2. Setup online ML monitoring for the Deployed model (WANDB or Grafana). Report the metrics that you will monitor for your task.
 3. Package and Dockerize the ML model using Flask or FastAPI. You may design any front end or may not use a front end at all as you see fit and deploy to GCP or AWS.
 4. Create a Continuous deployment pipeline for the application so that updated models can be readily deployed.
+
+## How this repository works
